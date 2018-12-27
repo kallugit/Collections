@@ -13,7 +13,7 @@ public class ArrayListImpl {
 	{
 		List<String> names = new ArrayList<>();
 		System.out.println("Is Empty :" + names.isEmpty());
-
+		names.add("Tejendra");
 		names.add("Arun");
 		names.add("Mamta");
 		names.add("Drisana");
